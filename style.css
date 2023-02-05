@@ -1,0 +1,64 @@
+.main {
+	margin: 20px auto;
+	width: 80%;
+	padding: 20px 20px 40px 20px;
+	border: 1px solid black;
+}
+.message {
+	margin: auto;
+	width: 90%;
+	padding: 10px 10px 10px 10px;
+	border: 1px solid grey;
+}
+.header {
+	margin: 20px auto;
+	padding: 20px 20px 40px 20px;
+	line-height: 20px;
+	text-align: center;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: 1px solid lightgrey;
+	border-left-style: none;
+}
+.ad {
+	/* 为什么要投广告呢？ */
+	margin: 20px auto;
+	width: 80%;
+	max-height: 100px;
+	padding: 20px 20px 40px 20px;
+	font-size: 20px;
+	line-height: 20px;
+	text-align: center;
+	border: 1px solid grey;
+}
+.footer {
+	margin: -20px auto;
+	width: 80%;
+	max-height: 20px;
+	padding: 20px 20px 40px 20px;
+	font-size: 15px;
+	line-height: 1px;
+	text-align: center;
+	border: 1px solid black;
+}
+p {
+	line-height: 0.5;
+}
+p.smg {
+	color: grey;
+	font-size: 10px;
+}
+h1 h2 h3 {
+	line-height: 0.5;
+}
+a.disable {
+	color: gray;
+	cursor: no-drop;
+}
+a.able {
+	color: blue;
+	text-decoration: none;
+}
+body {
+	
+}
